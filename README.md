@@ -2,7 +2,7 @@
 
 ## A Starter kit for Typescript with Node.JS with webpack set up out of the box
 
-<img src="assets/cover.png" align="center">
+<img src="assets/intro.png" align="center">
 
 > Requires **Node v8.9+**
 
