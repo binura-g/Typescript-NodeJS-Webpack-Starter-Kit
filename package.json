@@ -1,0 +1,51 @@
+{
+  "name": "typescript-nodejs-webpack-starter",
+  "version": "1.0.0",
+  "description": "Starter kit for Typescript with Node.JS with webpack set up out of the box",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "webpack && node bundle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BinuraG/Typescript-NodeJS-Webpack-Starter-Kit.git"
+  },
+  "author": "Binura Gunasekara",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.16.8",
+    "@types/express": "^4.11.1",
+    "@types/request-promise": "^4.1.41",
+    "@types/mocha": "^2.2.48",
+    "@types/node": "^9.4.6",
+    "awesome-typescript-loader": "^3.4.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2017": "^6.24.1",
+    "chai": "^4.1.2",
+    "eslint": "^4.16.0",
+    "eslint-loader": "^1.9.0",
+    "install": "^0.10.4",
+    "mocha": "^4.1.0",
+    "nodemon": "^1.14.11",
+    "npm-run-all": "^4.1.2",
+    "regenerator-runtime": "^0.11.1",
+    "shebang-loader": "0.0.1",
+    "source-map-loader": "^0.2.3",
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.7.1",
+    "webpack": "^3.10.0",
+    "webpack-node-externals": "^1.6.0",
+    "webpack-shell-plugin": "^0.5.0"
+  }
+}

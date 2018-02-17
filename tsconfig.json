@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es2015"],
+    "outDir": "dist",
+    "module": "commonjs",
+    "declaration": false,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "removeComments": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "inlineSources": true,
+    "types": ["node", "mocha"],
+    "allowJs": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/**/**", "**/*.spec.ts"]
+}
