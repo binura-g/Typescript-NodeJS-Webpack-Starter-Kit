@@ -2,11 +2,7 @@
 
 ## A Starter kit for Typescript with Node.JS with webpack set up out of the box
 
-<div style="style=block">
-<img src="assets/ts.png" width="210">
-<img src="assets/nodejs.png" width="230">
-<img src="assets/webpack.png" width="250">
-</div>
+<img src="assets/cover.png">
 
 > Requires **Node v8.9+**
 
