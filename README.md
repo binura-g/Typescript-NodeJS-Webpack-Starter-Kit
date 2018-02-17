@@ -3,8 +3,8 @@
 ## A Starter kit for Typescript with Node.JS with webpack set up out of the box
 
 <div style="style=block">
-<img src="assets/nodejs.png" width="200">
 <img src="assets/ts.png" width="250">
+<img src="assets/nodejs.png" width="230">
 <img src="assets/webpack.png" width="200">
 </div>
 
