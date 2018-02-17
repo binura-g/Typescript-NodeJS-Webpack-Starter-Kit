@@ -5,7 +5,7 @@
 <div style="style=block">
 <img src="assets/ts.png" width="250">
 <img src="assets/nodejs.png" width="230">
-<img src="assets/webpack.png" width="200">
+<img src="assets/webpack.png" width="250">
 </div>
 
 > Requires **Node v8.9+**
